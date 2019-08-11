@@ -1,0 +1,21 @@
+{
+  "1": {
+    "category": "UNI PROJECT",
+    "title": "Game Dev.",
+    "short_description": "Strategy game built with Unity3D",
+    "img": "/img/portfolio/1.jpg"
+  },
+  "2": {
+    "category": "HOBBY",
+    "title": "Mobile quiz",
+    "short_description": "Christmas gift to my sister. A quiz built in React/C#",
+    "img": "/img/portfolio/1.jpg"
+  },
+  "3": {
+    "category": "WORK",
+    "title": "Ericsson Summer Internship",
+    "short_description": "Advanced C++ classes",
+    "img": "/img/portfolio/1.jpg"
+  }
+}
+
